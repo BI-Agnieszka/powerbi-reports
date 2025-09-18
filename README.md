@@ -1,5 +1,5 @@
 # 📊 Power BI Report – Sample Visualizations
-This repository contains three sample pages from a Power BI report created as part of a job application. The visuals demonstrate data analysis, dashboard design, and business insight capabilities.
+This repository contains sample of Power BI Dashboards: Logistics & Finance
 ---
 ### 🚚 Logistic – Orders & Stock Overview  
 ![Logistic – Orders & Stock Overview](Logistic%20-%20Orders%20%26%20Stock%20Overview.png)
