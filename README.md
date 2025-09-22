@@ -4,15 +4,16 @@ This repository contains sample Power BI dashboards focused on Logistics, Financ
 ### 🚚 Logistic – Orders & Stock Overview  
 ![Logistic – Orders & Stock Overview](Logistic%20-%20Orders%20%26%20Stock%20Overview.png)
 ---
+### 📈 Quality Control Chart – Process Variation Monitoring  
+Control chart showing variation in daily team call volumes. “Product” refers to call count.  
+![Quality Control Chart – Six Sigma](Product%20Quality%20-%20Six%20Sigma%20Chart%20v1.png)
+---
 ### 💰 Profitability Overview – Key Matrix & Flow  
 ![Profitability Overview – Key Matrix & Flow](Profitability%20Overview%20-%20Key%20Matrix%20%26%20Flow.png)
 ---
 ### 📦 Inventory Movement & Performance  
 ![Inventory Movement & Performance](Inventory%20Movement%20%26%20Performance.png)
-
-### 📈 Quality Control Chart – Process Variation Monitoring  
-Control chart showing variation in daily team call volumes. “Product” refers to call count.  
-![Quality Control Chart – Six Sigma](Product%20Quality%20-%20Six%20Sigma%20Chart%20v1.png)
+---
 
 
 ## 🧹 SQL Data Cleaning (PostgreSQL)
