@@ -11,8 +11,8 @@ This repository contains sample Power BI dashboards focused on Logistics, Financ
 ![Inventory Movement & Performance](Inventory%20Movement%20%26%20Performance.png)
 
 ### 📈 Quality Control Chart – Process Variation Monitoring  
-![Quality Control Chart – Six Sigma](Product%20Quality%20-%20Six%20Sigma%20Chart.png)  
 Control chart showing variation in daily team call volumes. “Product” refers to call count.
+![Quality Control Chart – Six Sigma](Product%20Quality%20-%20Six%20Sigma%20Chart.png)  
 
 
 ## 🧹 SQL Data Cleaning (PostgreSQL)
