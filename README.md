@@ -35,7 +35,7 @@ Comparison of actual sales vs. planned targets for Q3, with KPI indicators.
 To optimize report performance and simplify data relationships, a dedicated data model was prepared in Power BI.  
 The original snowflake schema was transformed into a star schema, improving query speed and clarity of measures.
 - **Model Visualization**  
-![Power BI Data Model – Example](Power%20BI%20ModelMerged.png)
+![Power BI ModelMerged](Power%20BI%20ModelMerged.png)
 
 ## 🧹 SQL Data Cleaning – Example Script
 This repository includes a practical SQL script for cleaning customer order data using PostgreSQL.
