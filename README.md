@@ -31,15 +31,6 @@ Comparison of actual sales vs. planned targets for Q3, with KPI indicators.
 ![Regional Sales](RegionalSales.png)
 ---
 
-## 🧠 Data Model Preparation in Power BI
-To optimize report performance and simplify data relationships, a dedicated data model was prepared in Power BI.  
-The original snowflake schema was transformed into a star schema, improving query speed and clarity of measures.
-- **Model Visualization**  
-![Power BI ModelMerged](Power%20BI%20ModelMerged.png)
-
-## 🧹 SQL Data Cleaning – Example Script
-This repository includes a practical SQL script for cleaning customer order data using PostgreSQL.
-📄 [Data Cleansing in SQL.sql](Data%20Cleansing%20in%20SQL.sql)
 
 **Key cleaning steps:**
 - Removing duplicate orders using `ROW_NUMBER()`
