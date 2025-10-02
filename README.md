@@ -31,6 +31,9 @@ Comparison of actual sales vs. planned targets for Q3, with KPI indicators.
 ![Regional Sales](RegionalSales.png)
 ---
 
+## 🧹 SQL Data Cleaning – Example Script
+This repository includes a practical SQL script for cleaning customer order data using PostgreSQL.
+📄 [Download SQL Script](Data_Cleaning_Script.sql)
 
 **Key cleaning steps:**
 - Removing duplicate orders using `ROW_NUMBER()`
