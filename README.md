@@ -24,15 +24,6 @@ This repository contains sample Power BI visualizations and SQL scripts based on
 - **Profitability Overview – Key Matrix & Flow**  
   Visualization of profitability metrics and financial flow.
   ![Profitability Overview – Key Matrix & Flow](Profitability%20Overview%20-%20Key%20Matrix%20%26%20Flow.png)
-
-- **Inventory Movement & Performance**  
-  Analysis of inventory movement trends and performance indicators.
-  ![Inventory Movement & Performance](Inventory%20Movement%20%26%20Performance.png)
----
-
-## 📈 Quality Control Chart – Process Variation Monitoring  
-- **Control chart showing variation in daily team call volumes**  
-  ![Quality Control Chart – Six Sigma](Product%20Quality%20-%20Six%20Sigma%20Chart%20v1.png)
 ---
 
 ## 📍 Regional Sales & Quarterly Target Report
