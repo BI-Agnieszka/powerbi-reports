@@ -39,7 +39,7 @@ The original snowflake schema was transformed into a star schema, improving quer
 
 ## 🧹 SQL Data Cleaning – Example Script
 This repository includes a practical SQL script for cleaning customer order data using PostgreSQL.
-📄 [Download SQL Script](Data_Cleaning_Script.sql)
+📄 [Data Cleansing in SQL.sql](Data%20Cleansing%20in%20SQL.sql)
 
 **Key cleaning steps:**
 - Removing duplicate orders using `ROW_NUMBER()`
