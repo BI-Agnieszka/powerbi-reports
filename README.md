@@ -1,7 +1,12 @@
 # 📊 Power BI Report – Sample Dashboards
 This repository contains sample Power BI visualizations and SQL scripts based on fictional data.
 ---
+## 💸 Process Flow & Money Leak
 
+Visualization of operational flow and financial inefficiencies across logistic processes.  
+![Process Flow & Money Leak](Process_Flow_and_Money_Leak.png)
+
+---
 ## 🪑 Report for a Furniture Manufacturer
 - **Sales Overview**  
   Sales trends across four regions for a furniture manufacturer.  
