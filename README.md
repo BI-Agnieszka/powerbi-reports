@@ -6,7 +6,7 @@ This repository contains sample Power BI visualizations and SQL scripts based on
 
 This dashboard uses **conditional formatting** to highlight month-over-month changes, helping users quickly identify trends and anomalies.  
 Designed to **speed up report reading** and support **fast, data-driven decision-making**.  
-![Month-over-Month Performance](Power%20BI%20developer%20analyst.png)
+![Month-over-Month Performance](Power_BI_Month-over-Month_Performance_format.png)
 
 ---
 ## 💸 Process Flow & Money Leak
