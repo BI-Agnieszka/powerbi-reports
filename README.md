@@ -1,6 +1,14 @@
 # 📊 Power BI Report – Sample Dashboards
 This repository contains sample Power BI visualizations and SQL scripts based on fictional data.
 ---
+
+## 📈 Month-over-Month Performance Report
+
+This dashboard uses **conditional formatting** to highlight month-over-month changes, helping users quickly identify trends and anomalies.  
+Designed to **speed up report reading** and support **fast, data-driven decision-making**.  
+![Month-over-Month Performance](Power%20BI%20developer%20analyst.png)
+
+---
 ## 💸 Process Flow & Money Leak
 
 Visualization of operational flow and financial inefficiencies across logistic processes.  
