@@ -9,12 +9,6 @@ Designed to **speed up report reading** and support **fast, data-driven decision
 ![Month-over-Month Performance](Power_BI_Month-over-Month_Performance_format.png)
 
 ---
-## 💸 Process Flow & Money Leak
-
-Visualization of operational flow and financial inefficiencies across logistic processes.  
-![Process Flow & Money Leak](Process_Flow_and_Money_Leak.png)
-
----
 ## 🪑 Report for a Furniture Manufacturer
 - **Sales Overview**  
   Sales trends across four regions for a furniture manufacturer.  
@@ -27,6 +21,13 @@ Visualization of operational flow and financial inefficiencies across logistic p
 - **Sales Target**  
   Dashboard presenting sales targets to support strategic decision-making.  
   ![Sales Target](Sales%20Target.png)
+---
+
+## 💸 Process Flow & Money Leak
+
+Visualization of operational flow and financial inefficiencies across logistic processes.  
+![Process Flow & Money Leak](Process_Flow_and_Money_Leak.png)
+
 ---
 
 ## 🚚 Report for Logistic
