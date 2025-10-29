@@ -45,6 +45,13 @@ This repository includes a practical SQL script for cleaning customer order data
 - Standardizing email formats and removing invalid addresses
 - Filling missing values for quantity, price, and order status
 - Dropping incomplete or irrelevant records
+---
+
+## 🤖 N8N Agent – Excel Data Cleaning Experiment
+
+This experiment showcases an **N8N agent** powered by an **LLM model (gpt-4o mini)**, used to clean data in an Excel file.  
+The agent processed a column containing **city names**, identified inconsistencies, and generated a **new column with corrected city names**.  
+![N8N Agent Excel Cleaning](N8N_Agent_cleaning_excel_test.png)
 
 ---
 
