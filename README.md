@@ -51,7 +51,7 @@ This repository includes a practical SQL script for cleaning customer order data
 
 This experiment showcases an **N8N agent** powered by an **LLM model (gpt-4o mini)**, used to clean data in an Excel file.  
 The agent processed a column containing **city names**, identified inconsistencies, and generated a **new column with corrected city names**.  
-![N8N Agent Excel Cleaning](N8N_Agent_cleaning_excel_test.png)
+![N8N Agent Excel Cleaning](N8N_Agent_cleaning_excel_experiment.png)
 
 ---
 
