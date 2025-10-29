@@ -30,16 +30,6 @@ Visualization of operational flow and financial inefficiencies across logistic p
 
 ---
 
-## 🚚 Report for Logistic
-- **Logistic – Orders & Stock**  
-  Summary of stock levels and order volumes across logistic channels.  
-  ![Logistic – Orders & Stock Overview](Logistic%20-%20Orders%20%26%20Stock%20Overview.png)
-
-- **Profitability Overview – Key Matrix & Flow**  
-  Visualization of profitability metrics and financial flow.
-  ![Profitability Overview – Key Matrix & Flow](Profitability%20Overview%20-%20Key%20Matrix%20%26%20Flow.png)
----
-
 ## 📍 Regional Sales & Quarterly Target Report
 Comparison of actual sales vs. planned targets for Q3, with KPI indicators.
 ![Regional Sales](RegionalSales.png)
